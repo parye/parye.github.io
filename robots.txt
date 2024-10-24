@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://parye.github.io/pdZ/sitemap.pdZ
